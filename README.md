@@ -1,3 +1,7 @@
+### dokku 
+
+dokku config:unset --no-restart duckling DOKKU_DOCKERFILE_CMD DOKKU_DOCKERFILE_ENTRYPOINT DOKKU_PROXY_PORT_MAP
+dokku config:set duckling BUILDPACK_URL=https://github.com/mfine/heroku-buildpack-stack.git
 
 ### Heroku
 ```
