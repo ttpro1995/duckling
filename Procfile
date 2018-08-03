@@ -1,1 +1,1 @@
-web: stack exec duckling-example-exe
+web: duckling-example-exe

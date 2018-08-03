@@ -1,3 +1,9 @@
+
+### Heroku
+```
+heroku buildpacks:set https://github.com/mfine/heroku-buildpack-stack
+```
+
 ![Duckling Logo](https://github.com/facebook/duckling/raw/master/logo.png)
 
 # Duckling [![Build Status](https://travis-ci.org/facebook/duckling.svg?branch=master)](https://travis-ci.org/facebook/duckling)
