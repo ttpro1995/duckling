@@ -1,1 +1,1 @@
-web: duckling-example-exe
+web: duckling-example-exe -p $PORT
